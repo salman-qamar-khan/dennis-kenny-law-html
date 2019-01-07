@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+  <service>
+    <engineName>Movable Type Enterprise</engineName>
+    <engineLink>http://www.sixapart.com/movabletype/</engineLink>
+    <homePageLink>http://www.denniskennylaw.com/blog/</homePageLink>
+    <apis>
+      <api name="MetaWeblog" preferred="true" apiLink="http://www.denniskennylaw.com/mt-bin/mt-xmlrpc.cgi" blogID="81520" />
+      <api name="MovableType" preferred="false" apiLink="http://www.denniskennylaw.com/mt-bin/mt-xmlrpc.cgi" blogID="81520" />
+      <api name="Blogger" preferred="false" apiLink="http://www.denniskennylaw.com/mt-bin/mt-xmlrpc.cgi" blogID="81520" />
+      <api name="Atom" preferred="false" apiLink="http://www.denniskennylaw.com/mt-bin/mt-atom.cgi/weblog" blogID="81520" />
+    </apis>
+  </service>
+</rsd>
+
+  <!-- publish -->
+
+<!-- rsd -->
